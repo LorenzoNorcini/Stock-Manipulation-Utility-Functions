@@ -1,0 +1,16 @@
+
+*.csv
+
+*.pyc
+
+.DS_Store
+
+.idea/.name
+
+.idea/encodings.xml
+
+.idea/Machine_Learning_For_Trading.iml
+
+*.xml
+
+*.txt
